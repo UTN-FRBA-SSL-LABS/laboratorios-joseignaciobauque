@@ -371,7 +371,7 @@ BUG_EN_FUNCION_1=carrito_total
 _(nombre de la función con el primer bug)_
 
 ```
-BUG_EN_FUNCION_2=carrito_agrega
+BUG_EN_FUNCION_2=carrito_agregar
 ```
 _(nombre de la función con el segundo bug)_
 
