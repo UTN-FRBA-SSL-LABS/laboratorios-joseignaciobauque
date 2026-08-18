@@ -366,12 +366,12 @@ _(SI si todas las líneas están cubiertas, NO si hay alguna con #####)_
 > R:
 
 ```
-BUG_EN_FUNCION_1=test_total_precio_unitario
+BUG_EN_FUNCION_1=carrito_total
 ```
 _(nombre de la función con el primer bug)_
 
 ```
-BUG_EN_FUNCION_2=test_total_con_cantidad
+BUG_EN_FUNCION_2=carrito_agrega
 ```
 _(nombre de la función con el segundo bug)_
 
