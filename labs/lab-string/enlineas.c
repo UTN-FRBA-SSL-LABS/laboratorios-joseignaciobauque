@@ -19,7 +19,9 @@
 
 int main(int argc, char *argv[]) {
     (void)argc;
+
     for (char **arg = argv + 1; *arg != NULL; arg++)
         printf("%s\n", *arg);
+
     return 0;
 }
